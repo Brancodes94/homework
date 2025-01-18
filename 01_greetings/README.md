@@ -10,7 +10,7 @@ expect(typeof n).toBe("string");
 ```
 
 Create a program that asks users for their name and year of birth.
-Calcultate their age based on the current year. Then, print the
+Calculate their age based on the current year. Then, print the
 following greeting:
 
 ```
