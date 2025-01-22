@@ -9,7 +9,7 @@ expect(<actual>).toBe(<expected>);
 
 An assertion asserts that the actual value of an operation is the value
 that is expected. For instance, one may assert that `1 + 1`, whose
-actual value is `1`, should equal `1`. If that is not the case in your
+actual value is `2`, should equal `2`. If that is not the case in your
 program, then you know something is wrong.
 
 The given assertions are missing their expected value. Add the correct
